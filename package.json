@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/deltahtml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Delta host/html network string helpers for config audits.",
+  "bin": {
+    "deltahtml": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/deltahtml.git"
+  },
+  "homepage": "https://theworker02.github.io/deltahtml/",
+  "keywords": [
+    "delta",
+    "html",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
